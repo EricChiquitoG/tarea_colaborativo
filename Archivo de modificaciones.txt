@@ -1,3 +1,11 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 EricChiquitoG
+
+alejandrojifkins.
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/EricChiquitoG/tarea_colaborativo
+
+https://github.com/alejandrojifkins/tarea_colaborativo
